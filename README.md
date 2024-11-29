@@ -11,5 +11,8 @@ Technical Highlights:
   Integrated DatePicker for selecting expense dates.
   Customizable themes for a consistent user experience.
   Utilized dismissible widgets, dropdown menus, and snackbars to enhance interactivity.
-![image](https://github.com/user-attachments/assets/3b76c640-ac6f-4254-b3cd-68750b4e2f24)
-![image](https://github.com/user-attachments/assets/afda2720-79e6-480f-b033-cb67198517ef)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b76c640-ac6f-4254-b3cd-68750b4e2f24" alt="Dark Mode" width="45%">
+  <img src="https://github.com/user-attachments/assets/afda2720-79e6-480f-b033-cb67198517ef" alt="Light Mode" width="45%">
+</p>
+<p align="center"><i>Dark mode and Light mode</i></p>
